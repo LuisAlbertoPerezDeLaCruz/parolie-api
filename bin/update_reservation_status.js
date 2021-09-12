@@ -1,7 +1,7 @@
 #! /app/.heroku/node/bin/node
 async function updateReservationStatus() {
   const axios = require('axios').default;
-  const baseurl = 'http://164.90.182.159:5000/';
+  const baseurl = 'https://parolie-api.herokuapp.com/';
   const path = 'reservations/updateReservationStatus';
   const url = baseurl + path;
   let params = { limit: 1 };
