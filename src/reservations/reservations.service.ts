@@ -40,7 +40,12 @@ export class ReservationsService {
         query.status = JSON.parse(query.status);
       }
     }
-    const result = await this.reservationModel.find(query);
+    let result = null;
+    try {
+      result = await this.reservationModel.find(query);
+    } catch (error) {
+      result = [];
+    }
     return result;
   }
 

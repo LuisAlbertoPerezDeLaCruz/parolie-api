@@ -35,7 +35,12 @@ export class AvailabilitiesService {
   }
 
   async findByQuery(query: any) {
-    const result = await this.availabilityModel.find(query);
+    let result = null;
+    try {
+      result = await this.availabilityModel.find(query);
+    } catch (error) {
+      result = [];
+    }
     return result;
   }
 

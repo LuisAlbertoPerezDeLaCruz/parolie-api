@@ -24,7 +24,12 @@ export class LocationsService {
   }
 
   async findByQuery(query: any) {
-    const result = await this.locationModel.find(query);
+    let result = null;
+    try {
+      result = await this.locationModel.find(query);
+    } catch (error) {
+      result = [];
+    }
     return result;
   }
 

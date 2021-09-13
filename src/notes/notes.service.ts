@@ -21,7 +21,7 @@ export class NotesService {
       action: 'create',
       id: newNote._id,
     });
-    return newNote;
+    return newNote.save();
   }
 
   findAll() {
@@ -29,7 +29,12 @@ export class NotesService {
   }
 
   async findByQuery(query: any) {
-    const result = await this.noteModel.find(query);
+    let result = null;
+    try {
+      result = await this.noteModel.find(query);
+    } catch (error) {
+      result = [];
+    }
     return result;
   }
 
