@@ -29,12 +29,29 @@ export class NotesService {
   }
 
   async findByQuery(query: any) {
+    if ('any' in query) {
+      let any = query.any;
+      delete query['any'];
+      if (any === 'true') {
+        let creator = query.creator;
+        let to = query.to;
+        let type = query.type;
+        query = {
+          $or: [
+            { creator: creator, to: to },
+            { creator: to, to: creator },
+          ],
+          type: type,
+        };
+      }
+    }
     let result = null;
     try {
-      result = await this.noteModel.find(query);
+      result = await this.noteModel.find(query).sort('createdAt');
     } catch (error) {
       result = [];
     }
+    console.log({ query });
     return result;
   }
 

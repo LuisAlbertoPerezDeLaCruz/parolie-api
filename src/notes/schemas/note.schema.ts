@@ -5,7 +5,7 @@ import { User } from '../../users/schemas/user.schema';
 
 export type NoteDocument = Note & Document;
 
-@Schema({ timestamps: true })
+@Schema({ timestamps: true, strict: false })
 export class Note {
   @Prop({
     type: mongoose.Schema.Types.ObjectId,
