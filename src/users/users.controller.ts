@@ -24,6 +24,12 @@ export class UsersController {
   }
 
   @UseGuards(AuthGuard())
+  @Get('findByQuery')
+  findByQuery(@Query() query) {
+    return this.usersService.findByQuery(query);
+  }
+
+  @UseGuards(AuthGuard())
   @Get('email')
   findByEmail(@Query('email') email) {
     return this.usersService.findByEmail(email);

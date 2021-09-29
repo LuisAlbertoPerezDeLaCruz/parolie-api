@@ -7,4 +7,6 @@ export class CreateNoteDto {
   message: string;
   @IsEnum(NoteType)
   type: NoteType;
+  read: boolean;
+  dontShow: boolean;
 }

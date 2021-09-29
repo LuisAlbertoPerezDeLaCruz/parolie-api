@@ -15,7 +15,10 @@ export class NotesService {
     private changeGateway: ChangeGateway,
   ) {}
   create(createNoteDto: CreateNoteDto) {
+    createNoteDto.read = false;
+    createNoteDto.dontShow = false;
     const newNote = new this.noteModel(createNoteDto);
+
     this.changeGateway.sendChangeNotification({
       collection: 'notes',
       action: 'create',
@@ -47,7 +50,7 @@ export class NotesService {
     }
     let result = null;
     try {
-      result = await this.noteModel.find(query).sort('createdAt');
+      result = await this.noteModel.find(query).sort('-createdAt');
     } catch (error) {
       result = [];
     }

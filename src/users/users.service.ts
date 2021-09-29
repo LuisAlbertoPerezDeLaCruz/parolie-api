@@ -43,6 +43,17 @@ export class UsersService {
     return this.userModel.findOne({ email }, '+password');
   }
 
+  async findByQuery(query: any) {
+    let result = null;
+    console.log({ query });
+    try {
+      result = await this.userModel.find(query);
+    } catch (error) {
+      result = [];
+    }
+    return result;
+  }
+
   async checkEmail(email: string) {
     const result = this.userModel.findOne({ email }, '+password');
     return await result;

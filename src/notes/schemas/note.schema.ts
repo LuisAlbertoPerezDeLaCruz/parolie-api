@@ -26,6 +26,12 @@ export class Note {
 
   @Prop()
   type: string;
+
+  @Prop()
+  read: boolean;
+
+  @Prop()
+  dontShow: boolean;
 }
 
 export const NoteSchema = SchemaFactory.createForClass(Note);
