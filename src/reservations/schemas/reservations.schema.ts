@@ -39,6 +39,9 @@ export class Reservation {
 
   @Prop()
   status: String;
+
+  @Prop()
+  requirements: String;
 }
 
 export const ReservationSchema = SchemaFactory.createForClass(Reservation);

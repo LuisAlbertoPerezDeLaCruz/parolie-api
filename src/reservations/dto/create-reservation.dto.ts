@@ -8,4 +8,5 @@ export class CreateReservationDto {
   end: Date;
   @IsEnum(ReservationStatus)
   status: ReservationStatus;
+  requirements: string;
 }

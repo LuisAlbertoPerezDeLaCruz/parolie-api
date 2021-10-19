@@ -13,6 +13,7 @@ import { TranslatorsModule } from './translators/translators.module';
 import { ChangesModule } from './changes/changes.module';
 import { SmsModule } from './sms/sms.module';
 import { NotesModule } from './notes/notes.module';
+import { ChatModule } from './chat/chat.module';
 
 @Module({
   imports: [
@@ -36,6 +37,7 @@ import { NotesModule } from './notes/notes.module';
     ChangesModule,
     SmsModule,
     NotesModule,
+    ChatModule,
   ],
   controllers: [AppController],
   providers: [AppService],
