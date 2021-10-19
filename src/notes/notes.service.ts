@@ -54,7 +54,6 @@ export class NotesService {
     } catch (error) {
       result = [];
     }
-    console.log({ query });
     return result;
   }
 

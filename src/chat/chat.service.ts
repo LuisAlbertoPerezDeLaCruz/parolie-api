@@ -55,7 +55,6 @@ export class ChatService {
     } catch (error) {
       result = [];
     }
-    console.log({ query });
     return result;
   }
 
