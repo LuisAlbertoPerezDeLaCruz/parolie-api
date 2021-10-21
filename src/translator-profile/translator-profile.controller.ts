@@ -27,7 +27,6 @@ export class TranslatorProfileController {
     @Body() createTranslatorProfileDto: CreateTranslatorProfileDto,
     @Req() req,
   ) {
-    console.log('req:', req.user);
     /**
      * The request returns an user because in the validate function of
      * the jwt.strategy.ts returns the validated user which is triggered

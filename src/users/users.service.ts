@@ -45,7 +45,6 @@ export class UsersService {
 
   async findByQuery(query: any) {
     let result = null;
-    console.log({ query });
     try {
       result = await this.userModel.find(query);
     } catch (error) {

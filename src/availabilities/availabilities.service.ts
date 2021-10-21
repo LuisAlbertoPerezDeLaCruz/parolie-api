@@ -58,7 +58,6 @@ export class AvailabilitiesService {
     const result = await this.availabilityModel.find();
     let promises = [];
     result.forEach((element) => {
-      console.log({ element });
       promises.push(this.remove(element._id));
     });
     return Promise.all(promises);

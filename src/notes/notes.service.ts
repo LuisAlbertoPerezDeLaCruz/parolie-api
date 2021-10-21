@@ -14,17 +14,18 @@ export class NotesService {
     private noteModel: Model<NoteDocument>,
     private changeGateway: ChangeGateway,
   ) {}
-  create(createNoteDto: CreateNoteDto) {
+  async create(createNoteDto: CreateNoteDto) {
     createNoteDto.read = false;
     createNoteDto.dontShow = false;
     const newNote = new this.noteModel(createNoteDto);
-
+    await newNote.save();
     this.changeGateway.sendChangeNotification({
       collection: 'notes',
       action: 'create',
       id: newNote._id,
+      object: newNote,
     });
-    return newNote.save();
+    return newNote;
   }
 
   findAll() {
@@ -62,11 +63,6 @@ export class NotesService {
   }
 
   update(id: string, updateNoteDto: UpdateNoteDto) {
-    this.changeGateway.sendChangeNotification({
-      collection: 'notes',
-      action: 'update',
-      id: id,
-    });
     return this.noteModel.findByIdAndUpdate(id, updateNoteDto, { new: true });
   }
 

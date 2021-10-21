@@ -14,8 +14,6 @@ export class AuthService {
 
   async validateUserByPassword(loginUserDto: LoginUserDto): Promise<any> {
     const user = await this.usersService.findByEmail(loginUserDto.email);
-    console.log('user: ', user);
-
     return new Promise((resolve) => {
       if (!user) {
         resolve({ success: false, msg: 'User not found' });

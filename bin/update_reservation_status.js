@@ -11,13 +11,11 @@ async function updateReservationStatus() {
   await axios
     .get(url, options)
     .then((result) => {
-      console.log('result:', result.data);
       process.exit();
     })
     .catch((err) => {
       console.log({ err });
       process.exit();
     });
-  console.log('Reservation Status Updated');
 }
 updateReservationStatus();

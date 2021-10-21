@@ -16,7 +16,7 @@ import { CreateChatDto } from './dto/create-chat.dto';
 import { UpdateChatDto } from './dto/update-chat.dto';
 
 @UseGuards(AuthGuard())
-@Controller('chat')
+@Controller('chats')
 export class ChatController {
   constructor(private readonly chatsService: ChatService) {}
 
@@ -29,6 +29,11 @@ export class ChatController {
   @Get()
   findAll() {
     return this.chatsService.findAll();
+  }
+
+  @Get('findChatWith')
+  findChatWith(@Query() query) {
+    return this.chatsService.findChatWith(query);
   }
 
   @Get('findByQuery')

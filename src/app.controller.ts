@@ -19,7 +19,6 @@ export class AppController {
   @Get()
   getHello(@Req() request: Request) {
     const name = request.query['name'].toString();
-    console.log({ name });
     const msg = this.appService.getHello(name);
     return { status: HttpStatus.OK, mgs: msg };
   }

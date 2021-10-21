@@ -5,6 +5,7 @@ import { MongooseModule } from '@nestjs/mongoose';
 import { Chat, ChatSchema } from './schemas/chat.schema';
 import { PassportModule } from '@nestjs/passport';
 import { ChangeGateway } from '../changes/changes.gateway';
+import { UsersModule } from '../users/users.module';
 
 @Module({
   imports: [
@@ -18,6 +19,7 @@ import { ChangeGateway } from '../changes/changes.gateway';
         },
       },
     ]),
+    UsersModule,
     PassportModule.register({ defaultStrategy: 'jwt', session: false }),
   ],
   controllers: [ChatController],
