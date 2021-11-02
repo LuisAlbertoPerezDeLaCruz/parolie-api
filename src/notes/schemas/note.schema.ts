@@ -2,6 +2,7 @@ import { Prop, raw, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
 import * as mongoose from 'mongoose';
 import { User } from '../../users/schemas/user.schema';
+import { MetaData } from './metadata.schema';
 
 export type NoteDocument = Note & Document;
 
@@ -32,6 +33,9 @@ export class Note {
 
   @Prop()
   dontShow: boolean;
+
+  @Prop()
+  metadata: MetaData;
 }
 
 export const NoteSchema = SchemaFactory.createForClass(Note);

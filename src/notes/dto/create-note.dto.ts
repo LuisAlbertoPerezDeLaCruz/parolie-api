@@ -1,5 +1,6 @@
 import { IsEnum, NotEquals } from 'class-validator';
 import { NoteType } from '../../enums/note-type.enum';
+import { MetaData } from '../schemas/metadata.schema';
 
 export class CreateNoteDto {
   creator?: string;
@@ -9,4 +10,5 @@ export class CreateNoteDto {
   type: NoteType;
   read: boolean;
   dontShow: boolean;
+  metadata: MetaData;
 }
