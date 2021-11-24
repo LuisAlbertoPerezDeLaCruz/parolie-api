@@ -14,6 +14,7 @@ import { ChangesModule } from './changes/changes.module';
 import { SmsModule } from './sms/sms.module';
 import { NotesModule } from './notes/notes.module';
 import { ChatModule } from './chat/chat.module';
+import { CountriesModule } from './countries/countries.module';
 
 @Module({
   imports: [
@@ -38,6 +39,7 @@ import { ChatModule } from './chat/chat.module';
     SmsModule,
     NotesModule,
     ChatModule,
+    CountriesModule,
   ],
   controllers: [AppController],
   providers: [AppService],
