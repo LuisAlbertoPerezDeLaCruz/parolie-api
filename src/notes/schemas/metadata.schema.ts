@@ -12,8 +12,5 @@ export class MetaData {
   action: string;
 
   @Prop()
-  requirements: string;
-
-  @Prop()
   _id: string;
 }
