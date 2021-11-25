@@ -1,0 +1,4 @@
+Proceso de actualizacion del servidor Digital Ocean de parolie-api:
+
+$ sudo ssh -i /home/luis/.ssh/ubuntu-vic-lap root@164.90.182.159
+
