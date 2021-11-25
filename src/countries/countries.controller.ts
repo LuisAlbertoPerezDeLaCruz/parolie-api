@@ -19,9 +19,4 @@ export class CountriesController {
   findAll() {
     return this.countriesService.findAll();
   }
-
-  @Get('more')
-  findMore() {
-    return this.countriesService.findAll();
-  }
 }
