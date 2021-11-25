@@ -1,4 +1,16 @@
 Proceso de actualizacion del servidor Digital Ocean de parolie-api:
 
 $ sudo ssh -i /home/luis/.ssh/ubuntu-vic-lap root@164.90.182.159
+$ sudo su - lap (password lap1956)
+$ cd parolie_api
+$ git pull
+$ sudo shutdown -r now
 
+Nota: Aqui lo que ocurre es que supervisor arranca todo despues del reboot. El script: start_script.conf ubicado en /etc/supervisor/conf.d es el encargado de realizar el proceso de arranque el cual llama a /home/lap/parolie-api/start.sh. Este ultimo realiza las siguientes aciones:
+
+$ sudo systemctl start mongod
+$ cd /home/lap/parolie-api/
+$ npm run start:prod
+
+Para chequear que esta corriendo:
+$ sudo supervisorctl status
