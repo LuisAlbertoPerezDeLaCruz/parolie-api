@@ -42,6 +42,11 @@ export class TranslatorProfileController {
   }
 
   @Get('findByFilter')
+  findByFilter(@Query() query) {
+    return this.translatorProfileService.findByQuery(query);
+  }
+
+  @Get('findByQuery')
   findByQuery(@Query() query) {
     return this.translatorProfileService.findByQuery(query);
   }

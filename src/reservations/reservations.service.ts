@@ -65,6 +65,14 @@ export class ReservationsService {
     });
   }
 
+  async accountRatings(query: any) {
+    const result = await this.reservationModel.find({
+      rated: true,
+      'rating.accounted': false,
+    });
+    return result;
+  }
+
   async updateStatuses(query: any) {
     const reservations = await this.reservationModel.find({
       status: 'BLOCKED',

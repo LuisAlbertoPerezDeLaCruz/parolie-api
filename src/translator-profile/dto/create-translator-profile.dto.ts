@@ -1,3 +1,4 @@
+import { Rating } from '../schemas/rating.schema';
 export class CreateTranslatorProfileDto {
   creator?: string;
   first_name: string;
@@ -19,4 +20,5 @@ export class CreateTranslatorProfileDto {
   types_of_services: string[];
   description: string;
   photo: string;
+  ratings: Rating[];
 }

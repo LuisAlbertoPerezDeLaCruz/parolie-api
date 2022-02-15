@@ -32,6 +32,12 @@ export class ReservationsController {
     return this.reservationsService.findAll();
   }
 
+  @Get('account-ratings')
+  async accountRatings(@Query() query) {
+    const result = await this.reservationsService.accountRatings(query);
+    return result;
+  }
+
   @Get('updateReservationStatus')
   async updateReservationStatus(@Query() query) {
     const result = await this.reservationsService.updateStatuses(query);

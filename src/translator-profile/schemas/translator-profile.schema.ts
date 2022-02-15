@@ -2,6 +2,7 @@ import { Prop, raw, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
 import * as mongoose from 'mongoose';
 import { User } from '../../users/schemas/user.schema';
+import { Rating } from './rating.schema';
 
 export type TranslatorProfileDocument = TranslatorProfile & Document;
 
@@ -80,6 +81,9 @@ export class TranslatorProfile {
 
   @Prop()
   photo: string;
+
+  @Prop()
+  ratings: Rating[];
 }
 
 export const TranslatorProfileSchema = SchemaFactory.createForClass(
