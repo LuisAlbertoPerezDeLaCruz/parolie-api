@@ -3,6 +3,7 @@ import { Document } from 'mongoose';
 import * as mongoose from 'mongoose';
 import { User } from '../../users/schemas/user.schema';
 import { Location } from '../../locations/schemas/location.schema';
+import { Rating } from './rating.schema';
 
 export type ReservationDocument = Reservation & Document;
 
@@ -42,6 +43,12 @@ export class Reservation {
 
   @Prop()
   requirements: String;
+
+  @Prop()
+  rated: Boolean;
+
+  @Prop()
+  rating: Rating;
 }
 
 export const ReservationSchema = SchemaFactory.createForClass(Reservation);

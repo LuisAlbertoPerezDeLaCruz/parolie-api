@@ -1,0 +1,3344 @@
+[
+  {
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "name": "Afghanistan",
+    "alpha3Code": "AFG",
+    "callingCodes": [
+      "93"
+    ],
+    "capital": "Kabul",
+    "region": "Asia",
+    "timezones": [
+      "UTC+04:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ax.svg",
+    "name": "Åland Islands",
+    "alpha3Code": "ALA",
+    "callingCodes": [
+      "358"
+    ],
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/al.svg",
+    "name": "Albania",
+    "alpha3Code": "ALB",
+    "callingCodes": [
+      "355"
+    ],
+    "capital": "Tirana",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/dz.svg",
+    "name": "Algeria",
+    "alpha3Code": "DZA",
+    "callingCodes": [
+      "213"
+    ],
+    "capital": "Algiers",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/as.svg",
+    "name": "American Samoa",
+    "alpha3Code": "ASM",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "timezones": [
+      "UTC-11:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ad.svg",
+    "name": "Andorra",
+    "alpha3Code": "AND",
+    "callingCodes": [
+      "376"
+    ],
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ao.svg",
+    "name": "Angola",
+    "alpha3Code": "AGO",
+    "callingCodes": [
+      "244"
+    ],
+    "capital": "Luanda",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ai.svg",
+    "name": "Anguilla",
+    "alpha3Code": "AIA",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "The Valley",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/aq.svg",
+    "name": "Antarctica",
+    "alpha3Code": "ATA",
+    "callingCodes": [
+      "672"
+    ],
+    "capital": "",
+    "region": "Polar",
+    "timezones": [
+      "UTC-03:00",
+      "UTC+03:00",
+      "UTC+05:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ag.svg",
+    "name": "Antigua and Barbuda",
+    "alpha3Code": "ATG",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Saint John's",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ar.svg",
+    "name": "Argentina",
+    "alpha3Code": "ARG",
+    "callingCodes": [
+      "54"
+    ],
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "timezones": [
+      "UTC-03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/am.svg",
+    "name": "Armenia",
+    "alpha3Code": "ARM",
+    "callingCodes": [
+      "374"
+    ],
+    "capital": "Yerevan",
+    "region": "Asia",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/aw.svg",
+    "name": "Aruba",
+    "alpha3Code": "ABW",
+    "callingCodes": [
+      "297"
+    ],
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/au.svg",
+    "name": "Australia",
+    "alpha3Code": "AUS",
+    "callingCodes": [
+      "61"
+    ],
+    "capital": "Canberra",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/at.svg",
+    "name": "Austria",
+    "alpha3Code": "AUT",
+    "callingCodes": [
+      "43"
+    ],
+    "capital": "Vienna",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/az.svg",
+    "name": "Azerbaijan",
+    "alpha3Code": "AZE",
+    "callingCodes": [
+      "994"
+    ],
+    "capital": "Baku",
+    "region": "Asia",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bs.svg",
+    "name": "Bahamas",
+    "alpha3Code": "BHS",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Nassau",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bh.svg",
+    "name": "Bahrain",
+    "alpha3Code": "BHR",
+    "callingCodes": [
+      "973"
+    ],
+    "capital": "Manama",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bd.svg",
+    "name": "Bangladesh",
+    "alpha3Code": "BGD",
+    "callingCodes": [
+      "880"
+    ],
+    "capital": "Dhaka",
+    "region": "Asia",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bb.svg",
+    "name": "Barbados",
+    "alpha3Code": "BRB",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/by.svg",
+    "name": "Belarus",
+    "alpha3Code": "BLR",
+    "callingCodes": [
+      "375"
+    ],
+    "capital": "Minsk",
+    "region": "Europe",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/be.svg",
+    "name": "Belgium",
+    "alpha3Code": "BEL",
+    "callingCodes": [
+      "32"
+    ],
+    "capital": "Brussels",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bz.svg",
+    "name": "Belize",
+    "alpha3Code": "BLZ",
+    "callingCodes": [
+      "501"
+    ],
+    "capital": "Belmopan",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bj.svg",
+    "name": "Benin",
+    "alpha3Code": "BEN",
+    "callingCodes": [
+      "229"
+    ],
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bm.svg",
+    "name": "Bermuda",
+    "alpha3Code": "BMU",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Hamilton",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bt.svg",
+    "name": "Bhutan",
+    "alpha3Code": "BTN",
+    "callingCodes": [
+      "975"
+    ],
+    "capital": "Thimphu",
+    "region": "Asia",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bo.svg",
+    "name": "Bolivia (Plurinational State of)",
+    "alpha3Code": "BOL",
+    "callingCodes": [
+      "591"
+    ],
+    "capital": "Sucre",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bq.svg",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "alpha3Code": "BES",
+    "callingCodes": [
+      "599"
+    ],
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ba.svg",
+    "name": "Bosnia and Herzegovina",
+    "alpha3Code": "BIH",
+    "callingCodes": [
+      "387"
+    ],
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bw.svg",
+    "name": "Botswana",
+    "alpha3Code": "BWA",
+    "callingCodes": [
+      "267"
+    ],
+    "capital": "Gaborone",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bv.svg",
+    "name": "Bouvet Island",
+    "alpha3Code": "BVT",
+    "callingCodes": [
+      "47"
+    ],
+    "capital": "",
+    "region": "Antarctic Ocean",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/br.svg",
+    "name": "Brazil",
+    "alpha3Code": "BRA",
+    "callingCodes": [
+      "55"
+    ],
+    "capital": "Brasília",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/io.svg",
+    "name": "British Indian Ocean Territory",
+    "alpha3Code": "IOT",
+    "callingCodes": [
+      "246"
+    ],
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/um.svg",
+    "name": "United States Minor Outlying Islands",
+    "alpha3Code": "UMI",
+    "callingCodes": [
+      "246"
+    ],
+    "capital": "",
+    "region": "Americas",
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/vg.svg",
+    "name": "Virgin Islands (British)",
+    "alpha3Code": "VGB",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Road Town",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/vi.svg",
+    "name": "Virgin Islands (U.S.)",
+    "alpha3Code": "VIR",
+    "callingCodes": [
+      "1 340"
+    ],
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bn.svg",
+    "name": "Brunei Darussalam",
+    "alpha3Code": "BRN",
+    "callingCodes": [
+      "673"
+    ],
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bg.svg",
+    "name": "Bulgaria",
+    "alpha3Code": "BGR",
+    "callingCodes": [
+      "359"
+    ],
+    "capital": "Sofia",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bf.svg",
+    "name": "Burkina Faso",
+    "alpha3Code": "BFA",
+    "callingCodes": [
+      "226"
+    ],
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bi.svg",
+    "name": "Burundi",
+    "alpha3Code": "BDI",
+    "callingCodes": [
+      "257"
+    ],
+    "capital": "Gitega",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/kh.svg",
+    "name": "Cambodia",
+    "alpha3Code": "KHM",
+    "callingCodes": [
+      "855"
+    ],
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cm.svg",
+    "name": "Cameroon",
+    "alpha3Code": "CMR",
+    "callingCodes": [
+      "237"
+    ],
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ca.svg",
+    "name": "Canada",
+    "alpha3Code": "CAN",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Ottawa",
+    "region": "Americas",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cv.svg",
+    "name": "Cabo Verde",
+    "alpha3Code": "CPV",
+    "callingCodes": [
+      "238"
+    ],
+    "capital": "Praia",
+    "region": "Africa",
+    "timezones": [
+      "UTC-01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ky.svg",
+    "name": "Cayman Islands",
+    "alpha3Code": "CYM",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "George Town",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cf.svg",
+    "name": "Central African Republic",
+    "alpha3Code": "CAF",
+    "callingCodes": [
+      "236"
+    ],
+    "capital": "Bangui",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/td.svg",
+    "name": "Chad",
+    "alpha3Code": "TCD",
+    "callingCodes": [
+      "235"
+    ],
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cl.svg",
+    "name": "Chile",
+    "alpha3Code": "CHL",
+    "callingCodes": [
+      "56"
+    ],
+    "capital": "Santiago",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cn.svg",
+    "name": "China",
+    "alpha3Code": "CHN",
+    "callingCodes": [
+      "86"
+    ],
+    "capital": "Beijing",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cx.svg",
+    "name": "Christmas Island",
+    "alpha3Code": "CXR",
+    "callingCodes": [
+      "61"
+    ],
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cc.svg",
+    "name": "Cocos (Keeling) Islands",
+    "alpha3Code": "CCK",
+    "callingCodes": [
+      "61"
+    ],
+    "capital": "West Island",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+06:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/co.svg",
+    "name": "Colombia",
+    "alpha3Code": "COL",
+    "callingCodes": [
+      "57"
+    ],
+    "capital": "Bogotá",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/km.svg",
+    "name": "Comoros",
+    "alpha3Code": "COM",
+    "callingCodes": [
+      "269"
+    ],
+    "capital": "Moroni",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cg.svg",
+    "name": "Congo",
+    "alpha3Code": "COG",
+    "callingCodes": [
+      "242"
+    ],
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cd.svg",
+    "name": "Congo (Democratic Republic of the)",
+    "alpha3Code": "COD",
+    "callingCodes": [
+      "243"
+    ],
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00",
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ck.svg",
+    "name": "Cook Islands",
+    "alpha3Code": "COK",
+    "callingCodes": [
+      "682"
+    ],
+    "capital": "Avarua",
+    "region": "Oceania",
+    "timezones": [
+      "UTC-10:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cr.svg",
+    "name": "Costa Rica",
+    "alpha3Code": "CRI",
+    "callingCodes": [
+      "506"
+    ],
+    "capital": "San José",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/hr.svg",
+    "name": "Croatia",
+    "alpha3Code": "HRV",
+    "callingCodes": [
+      "385"
+    ],
+    "capital": "Zagreb",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cu.svg",
+    "name": "Cuba",
+    "alpha3Code": "CUB",
+    "callingCodes": [
+      "53"
+    ],
+    "capital": "Havana",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cw.svg",
+    "name": "Curaçao",
+    "alpha3Code": "CUW",
+    "callingCodes": [
+      "599"
+    ],
+    "capital": "Willemstad",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cy.svg",
+    "name": "Cyprus",
+    "alpha3Code": "CYP",
+    "callingCodes": [
+      "357"
+    ],
+    "capital": "Nicosia",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/cz.svg",
+    "name": "Czech Republic",
+    "alpha3Code": "CZE",
+    "callingCodes": [
+      "420"
+    ],
+    "capital": "Prague",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/dk.svg",
+    "name": "Denmark",
+    "alpha3Code": "DNK",
+    "callingCodes": [
+      "45"
+    ],
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC",
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/dj.svg",
+    "name": "Djibouti",
+    "alpha3Code": "DJI",
+    "callingCodes": [
+      "253"
+    ],
+    "capital": "Djibouti",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/dm.svg",
+    "name": "Dominica",
+    "alpha3Code": "DMA",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Roseau",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/do.svg",
+    "name": "Dominican Republic",
+    "alpha3Code": "DOM",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ec.svg",
+    "name": "Ecuador",
+    "alpha3Code": "ECU",
+    "callingCodes": [
+      "593"
+    ],
+    "capital": "Quito",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/eg.svg",
+    "name": "Egypt",
+    "alpha3Code": "EGY",
+    "callingCodes": [
+      "20"
+    ],
+    "capital": "Cairo",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sv.svg",
+    "name": "El Salvador",
+    "alpha3Code": "SLV",
+    "callingCodes": [
+      "503"
+    ],
+    "capital": "San Salvador",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gq.svg",
+    "name": "Equatorial Guinea",
+    "alpha3Code": "GNQ",
+    "callingCodes": [
+      "240"
+    ],
+    "capital": "Malabo",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/er.svg",
+    "name": "Eritrea",
+    "alpha3Code": "ERI",
+    "callingCodes": [
+      "291"
+    ],
+    "capital": "Asmara",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ee.svg",
+    "name": "Estonia",
+    "alpha3Code": "EST",
+    "callingCodes": [
+      "372"
+    ],
+    "capital": "Tallinn",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/et.svg",
+    "name": "Ethiopia",
+    "alpha3Code": "ETH",
+    "callingCodes": [
+      "251"
+    ],
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/fk.svg",
+    "name": "Falkland Islands (Malvinas)",
+    "alpha3Code": "FLK",
+    "callingCodes": [
+      "500"
+    ],
+    "capital": "Stanley",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/fo.svg",
+    "name": "Faroe Islands",
+    "alpha3Code": "FRO",
+    "callingCodes": [
+      "298"
+    ],
+    "capital": "Tórshavn",
+    "region": "Europe",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/fj.svg",
+    "name": "Fiji",
+    "alpha3Code": "FJI",
+    "callingCodes": [
+      "679"
+    ],
+    "capital": "Suva",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/fi.svg",
+    "name": "Finland",
+    "alpha3Code": "FIN",
+    "callingCodes": [
+      "358"
+    ],
+    "capital": "Helsinki",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/fr.svg",
+    "name": "France",
+    "alpha3Code": "FRA",
+    "callingCodes": [
+      "33"
+    ],
+    "capital": "Paris",
+    "region": "Europe",
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gf.svg",
+    "name": "French Guiana",
+    "alpha3Code": "GUF",
+    "callingCodes": [
+      "594"
+    ],
+    "capital": "Cayenne",
+    "region": "Americas",
+    "timezones": [
+      "UTC-03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pf.svg",
+    "name": "French Polynesia",
+    "alpha3Code": "PYF",
+    "callingCodes": [
+      "689"
+    ],
+    "capital": "Papeetē",
+    "region": "Oceania",
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tf.svg",
+    "name": "French Southern Territories",
+    "alpha3Code": "ATF",
+    "callingCodes": [
+      "262"
+    ],
+    "capital": "Port-aux-Français",
+    "region": "Africa",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ga.svg",
+    "name": "Gabon",
+    "alpha3Code": "GAB",
+    "callingCodes": [
+      "241"
+    ],
+    "capital": "Libreville",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gm.svg",
+    "name": "Gambia",
+    "alpha3Code": "GMB",
+    "callingCodes": [
+      "220"
+    ],
+    "capital": "Banjul",
+    "region": "Africa",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ge.svg",
+    "name": "Georgia",
+    "alpha3Code": "GEO",
+    "callingCodes": [
+      "995"
+    ],
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/de.svg",
+    "name": "Germany",
+    "alpha3Code": "DEU",
+    "callingCodes": [
+      "49"
+    ],
+    "capital": "Berlin",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gh.svg",
+    "name": "Ghana",
+    "alpha3Code": "GHA",
+    "callingCodes": [
+      "233"
+    ],
+    "capital": "Accra",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gi.svg",
+    "name": "Gibraltar",
+    "alpha3Code": "GIB",
+    "callingCodes": [
+      "350"
+    ],
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gr.svg",
+    "name": "Greece",
+    "alpha3Code": "GRC",
+    "callingCodes": [
+      "30"
+    ],
+    "capital": "Athens",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gl.svg",
+    "name": "Greenland",
+    "alpha3Code": "GRL",
+    "callingCodes": [
+      "299"
+    ],
+    "capital": "Nuuk",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC+00:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gd.svg",
+    "name": "Grenada",
+    "alpha3Code": "GRD",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "St. George's",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gp.svg",
+    "name": "Guadeloupe",
+    "alpha3Code": "GLP",
+    "callingCodes": [
+      "590"
+    ],
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gu.svg",
+    "name": "Guam",
+    "alpha3Code": "GUM",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Hagåtña",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+10:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gt.svg",
+    "name": "Guatemala",
+    "alpha3Code": "GTM",
+    "callingCodes": [
+      "502"
+    ],
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gg.svg",
+    "name": "Guernsey",
+    "alpha3Code": "GGY",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gn.svg",
+    "name": "Guinea",
+    "alpha3Code": "GIN",
+    "callingCodes": [
+      "224"
+    ],
+    "capital": "Conakry",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gw.svg",
+    "name": "Guinea-Bissau",
+    "alpha3Code": "GNB",
+    "callingCodes": [
+      "245"
+    ],
+    "capital": "Bissau",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gy.svg",
+    "name": "Guyana",
+    "alpha3Code": "GUY",
+    "callingCodes": [
+      "592"
+    ],
+    "capital": "Georgetown",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ht.svg",
+    "name": "Haiti",
+    "alpha3Code": "HTI",
+    "callingCodes": [
+      "509"
+    ],
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/hm.svg",
+    "name": "Heard Island and McDonald Islands",
+    "alpha3Code": "HMD",
+    "callingCodes": [
+      "672"
+    ],
+    "capital": "",
+    "region": "Antarctic",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/va.svg",
+    "name": "Vatican City",
+    "alpha3Code": "VAT",
+    "callingCodes": [
+      "379"
+    ],
+    "capital": "Vatican City",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/hn.svg",
+    "name": "Honduras",
+    "alpha3Code": "HND",
+    "callingCodes": [
+      "504"
+    ],
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/hu.svg",
+    "name": "Hungary",
+    "alpha3Code": "HUN",
+    "callingCodes": [
+      "36"
+    ],
+    "capital": "Budapest",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/hk.svg",
+    "name": "Hong Kong",
+    "alpha3Code": "HKG",
+    "callingCodes": [
+      "852"
+    ],
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/is.svg",
+    "name": "Iceland",
+    "alpha3Code": "ISL",
+    "callingCodes": [
+      "354"
+    ],
+    "capital": "Reykjavík",
+    "region": "Europe",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/in.svg",
+    "name": "India",
+    "alpha3Code": "IND",
+    "callingCodes": [
+      "91"
+    ],
+    "capital": "New Delhi",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/id.svg",
+    "name": "Indonesia",
+    "alpha3Code": "IDN",
+    "callingCodes": [
+      "62"
+    ],
+    "capital": "Jakarta",
+    "region": "Asia",
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ci.svg",
+    "name": "Ivory Coast",
+    "alpha3Code": "CIV",
+    "callingCodes": [
+      "225"
+    ],
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ir.svg",
+    "name": "Iran (Islamic Republic of)",
+    "alpha3Code": "IRN",
+    "callingCodes": [
+      "98"
+    ],
+    "capital": "Tehran",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/iq.svg",
+    "name": "Iraq",
+    "alpha3Code": "IRQ",
+    "callingCodes": [
+      "964"
+    ],
+    "capital": "Baghdad",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ie.svg",
+    "name": "Ireland",
+    "alpha3Code": "IRL",
+    "callingCodes": [
+      "353"
+    ],
+    "capital": "Dublin",
+    "region": "Europe",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/im.svg",
+    "name": "Isle of Man",
+    "alpha3Code": "IMN",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "Douglas",
+    "region": "Europe",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/il.svg",
+    "name": "Israel",
+    "alpha3Code": "ISR",
+    "callingCodes": [
+      "972"
+    ],
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/it.svg",
+    "name": "Italy",
+    "alpha3Code": "ITA",
+    "callingCodes": [
+      "39"
+    ],
+    "capital": "Rome",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/jm.svg",
+    "name": "Jamaica",
+    "alpha3Code": "JAM",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Kingston",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/jp.svg",
+    "name": "Japan",
+    "alpha3Code": "JPN",
+    "callingCodes": [
+      "81"
+    ],
+    "capital": "Tokyo",
+    "region": "Asia",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/je.svg",
+    "name": "Jersey",
+    "alpha3Code": "JEY",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/jo.svg",
+    "name": "Jordan",
+    "alpha3Code": "JOR",
+    "callingCodes": [
+      "962"
+    ],
+    "capital": "Amman",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/kz.svg",
+    "name": "Kazakhstan",
+    "alpha3Code": "KAZ",
+    "callingCodes": [
+      "76",
+      "77"
+    ],
+    "capital": "Nur-Sultan",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ke.svg",
+    "name": "Kenya",
+    "alpha3Code": "KEN",
+    "callingCodes": [
+      "254"
+    ],
+    "capital": "Nairobi",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ki.svg",
+    "name": "Kiribati",
+    "alpha3Code": "KIR",
+    "callingCodes": [
+      "686"
+    ],
+    "capital": "South Tarawa",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+12:00",
+      "UTC+13:00",
+      "UTC+14:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/kw.svg",
+    "name": "Kuwait",
+    "alpha3Code": "KWT",
+    "callingCodes": [
+      "965"
+    ],
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/kg.svg",
+    "name": "Kyrgyzstan",
+    "alpha3Code": "KGZ",
+    "callingCodes": [
+      "996"
+    ],
+    "capital": "Bishkek",
+    "region": "Asia",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/la.svg",
+    "name": "Lao People's Democratic Republic",
+    "alpha3Code": "LAO",
+    "callingCodes": [
+      "856"
+    ],
+    "capital": "Vientiane",
+    "region": "Asia",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/lv.svg",
+    "name": "Latvia",
+    "alpha3Code": "LVA",
+    "callingCodes": [
+      "371"
+    ],
+    "capital": "Riga",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/lb.svg",
+    "name": "Lebanon",
+    "alpha3Code": "LBN",
+    "callingCodes": [
+      "961"
+    ],
+    "capital": "Beirut",
+    "region": "Asia",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ls.svg",
+    "name": "Lesotho",
+    "alpha3Code": "LSO",
+    "callingCodes": [
+      "266"
+    ],
+    "capital": "Maseru",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/lr.svg",
+    "name": "Liberia",
+    "alpha3Code": "LBR",
+    "callingCodes": [
+      "231"
+    ],
+    "capital": "Monrovia",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ly.svg",
+    "name": "Libya",
+    "alpha3Code": "LBY",
+    "callingCodes": [
+      "218"
+    ],
+    "capital": "Tripoli",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/li.svg",
+    "name": "Liechtenstein",
+    "alpha3Code": "LIE",
+    "callingCodes": [
+      "423"
+    ],
+    "capital": "Vaduz",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/lt.svg",
+    "name": "Lithuania",
+    "alpha3Code": "LTU",
+    "callingCodes": [
+      "370"
+    ],
+    "capital": "Vilnius",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/lu.svg",
+    "name": "Luxembourg",
+    "alpha3Code": "LUX",
+    "callingCodes": [
+      "352"
+    ],
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mo.svg",
+    "name": "Macao",
+    "alpha3Code": "MAC",
+    "callingCodes": [
+      "853"
+    ],
+    "capital": "",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mk.svg",
+    "name": "North Macedonia",
+    "alpha3Code": "MKD",
+    "callingCodes": [
+      "389"
+    ],
+    "capital": "Skopje",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mg.svg",
+    "name": "Madagascar",
+    "alpha3Code": "MDG",
+    "callingCodes": [
+      "261"
+    ],
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mw.svg",
+    "name": "Malawi",
+    "alpha3Code": "MWI",
+    "callingCodes": [
+      "265"
+    ],
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/my.svg",
+    "name": "Malaysia",
+    "alpha3Code": "MYS",
+    "callingCodes": [
+      "60"
+    ],
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mv.svg",
+    "name": "Maldives",
+    "alpha3Code": "MDV",
+    "callingCodes": [
+      "960"
+    ],
+    "capital": "Malé",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ml.svg",
+    "name": "Mali",
+    "alpha3Code": "MLI",
+    "callingCodes": [
+      "223"
+    ],
+    "capital": "Bamako",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mt.svg",
+    "name": "Malta",
+    "alpha3Code": "MLT",
+    "callingCodes": [
+      "356"
+    ],
+    "capital": "Valletta",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mh.svg",
+    "name": "Marshall Islands",
+    "alpha3Code": "MHL",
+    "callingCodes": [
+      "692"
+    ],
+    "capital": "Majuro",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mq.svg",
+    "name": "Martinique",
+    "alpha3Code": "MTQ",
+    "callingCodes": [
+      "596"
+    ],
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mr.svg",
+    "name": "Mauritania",
+    "alpha3Code": "MRT",
+    "callingCodes": [
+      "222"
+    ],
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mu.svg",
+    "name": "Mauritius",
+    "alpha3Code": "MUS",
+    "callingCodes": [
+      "230"
+    ],
+    "capital": "Port Louis",
+    "region": "Africa",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/yt.svg",
+    "name": "Mayotte",
+    "alpha3Code": "MYT",
+    "callingCodes": [
+      "262"
+    ],
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mx.svg",
+    "name": "Mexico",
+    "alpha3Code": "MEX",
+    "callingCodes": [
+      "52"
+    ],
+    "capital": "Mexico City",
+    "region": "Americas",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/fm.svg",
+    "name": "Micronesia (Federated States of)",
+    "alpha3Code": "FSM",
+    "callingCodes": [
+      "691"
+    ],
+    "capital": "Palikir",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+10:00",
+      "UTC+11"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/md.svg",
+    "name": "Moldova (Republic of)",
+    "alpha3Code": "MDA",
+    "callingCodes": [
+      "373"
+    ],
+    "capital": "Chișinău",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mc.svg",
+    "name": "Monaco",
+    "alpha3Code": "MCO",
+    "callingCodes": [
+      "377"
+    ],
+    "capital": "Monaco",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mn.svg",
+    "name": "Mongolia",
+    "alpha3Code": "MNG",
+    "callingCodes": [
+      "976"
+    ],
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/me.svg",
+    "name": "Montenegro",
+    "alpha3Code": "MNE",
+    "callingCodes": [
+      "382"
+    ],
+    "capital": "Podgorica",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ms.svg",
+    "name": "Montserrat",
+    "alpha3Code": "MSR",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Plymouth",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ma.svg",
+    "name": "Morocco",
+    "alpha3Code": "MAR",
+    "callingCodes": [
+      "212"
+    ],
+    "capital": "Rabat",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mz.svg",
+    "name": "Mozambique",
+    "alpha3Code": "MOZ",
+    "callingCodes": [
+      "258"
+    ],
+    "capital": "Maputo",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mm.svg",
+    "name": "Myanmar",
+    "alpha3Code": "MMR",
+    "callingCodes": [
+      "95"
+    ],
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "timezones": [
+      "UTC+06:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/na.svg",
+    "name": "Namibia",
+    "alpha3Code": "NAM",
+    "callingCodes": [
+      "264"
+    ],
+    "capital": "Windhoek",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/nr.svg",
+    "name": "Nauru",
+    "alpha3Code": "NRU",
+    "callingCodes": [
+      "674"
+    ],
+    "capital": "Yaren",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/np.svg",
+    "name": "Nepal",
+    "alpha3Code": "NPL",
+    "callingCodes": [
+      "977"
+    ],
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:45"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/nl.svg",
+    "name": "Netherlands",
+    "alpha3Code": "NLD",
+    "callingCodes": [
+      "31"
+    ],
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "timezones": [
+      "UTC-04:00",
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/nc.svg",
+    "name": "New Caledonia",
+    "alpha3Code": "NCL",
+    "callingCodes": [
+      "687"
+    ],
+    "capital": "Nouméa",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+11:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/nz.svg",
+    "name": "New Zealand",
+    "alpha3Code": "NZL",
+    "callingCodes": [
+      "64"
+    ],
+    "capital": "Wellington",
+    "region": "Oceania",
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ni.svg",
+    "name": "Nicaragua",
+    "alpha3Code": "NIC",
+    "callingCodes": [
+      "505"
+    ],
+    "capital": "Managua",
+    "region": "Americas",
+    "timezones": [
+      "UTC-06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ne.svg",
+    "name": "Niger",
+    "alpha3Code": "NER",
+    "callingCodes": [
+      "227"
+    ],
+    "capital": "Niamey",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ng.svg",
+    "name": "Nigeria",
+    "alpha3Code": "NGA",
+    "callingCodes": [
+      "234"
+    ],
+    "capital": "Abuja",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/nu.svg",
+    "name": "Niue",
+    "alpha3Code": "NIU",
+    "callingCodes": [
+      "683"
+    ],
+    "capital": "Alofi",
+    "region": "Oceania",
+    "timezones": [
+      "UTC-11:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/nf.svg",
+    "name": "Norfolk Island",
+    "alpha3Code": "NFK",
+    "callingCodes": [
+      "672"
+    ],
+    "capital": "Kingston",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+11:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/kp.svg",
+    "name": "Korea (Democratic People's Republic of)",
+    "alpha3Code": "PRK",
+    "callingCodes": [
+      "850"
+    ],
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mp.svg",
+    "name": "Northern Mariana Islands",
+    "alpha3Code": "MNP",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Saipan",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+10:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/no.svg",
+    "name": "Norway",
+    "alpha3Code": "NOR",
+    "callingCodes": [
+      "47"
+    ],
+    "capital": "Oslo",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/om.svg",
+    "name": "Oman",
+    "alpha3Code": "OMN",
+    "callingCodes": [
+      "968"
+    ],
+    "capital": "Muscat",
+    "region": "Asia",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pk.svg",
+    "name": "Pakistan",
+    "alpha3Code": "PAK",
+    "callingCodes": [
+      "92"
+    ],
+    "capital": "Islamabad",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pw.svg",
+    "name": "Palau",
+    "alpha3Code": "PLW",
+    "callingCodes": [
+      "680"
+    ],
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ps.svg",
+    "name": "Palestine, State of",
+    "alpha3Code": "PSE",
+    "callingCodes": [
+      "970"
+    ],
+    "capital": "Ramallah",
+    "region": "Asia",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pa.svg",
+    "name": "Panama",
+    "alpha3Code": "PAN",
+    "callingCodes": [
+      "507"
+    ],
+    "capital": "Panama City",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pg.svg",
+    "name": "Papua New Guinea",
+    "alpha3Code": "PNG",
+    "callingCodes": [
+      "675"
+    ],
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+10:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/py.svg",
+    "name": "Paraguay",
+    "alpha3Code": "PRY",
+    "callingCodes": [
+      "595"
+    ],
+    "capital": "Asunción",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pe.svg",
+    "name": "Peru",
+    "alpha3Code": "PER",
+    "callingCodes": [
+      "51"
+    ],
+    "capital": "Lima",
+    "region": "Americas",
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ph.svg",
+    "name": "Philippines",
+    "alpha3Code": "PHL",
+    "callingCodes": [
+      "63"
+    ],
+    "capital": "Manila",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pn.svg",
+    "name": "Pitcairn",
+    "alpha3Code": "PCN",
+    "callingCodes": [
+      "64"
+    ],
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "timezones": [
+      "UTC-08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pl.svg",
+    "name": "Poland",
+    "alpha3Code": "POL",
+    "callingCodes": [
+      "48"
+    ],
+    "capital": "Warsaw",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pt.svg",
+    "name": "Portugal",
+    "alpha3Code": "PRT",
+    "callingCodes": [
+      "351"
+    ],
+    "capital": "Lisbon",
+    "region": "Europe",
+    "timezones": [
+      "UTC-01:00",
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pr.svg",
+    "name": "Puerto Rico",
+    "alpha3Code": "PRI",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "San Juan",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/qa.svg",
+    "name": "Qatar",
+    "alpha3Code": "QAT",
+    "callingCodes": [
+      "974"
+    ],
+    "capital": "Doha",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/xk.svg",
+    "name": "Republic of Kosovo",
+    "alpha3Code": "UNK",
+    "callingCodes": [
+      "383"
+    ],
+    "capital": "Pristina",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/re.svg",
+    "name": "Réunion",
+    "alpha3Code": "REU",
+    "callingCodes": [
+      "262"
+    ],
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ro.svg",
+    "name": "Romania",
+    "alpha3Code": "ROU",
+    "callingCodes": [
+      "40"
+    ],
+    "capital": "Bucharest",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ru.svg",
+    "name": "Russian Federation",
+    "alpha3Code": "RUS",
+    "callingCodes": [
+      "7"
+    ],
+    "capital": "Moscow",
+    "region": "Europe",
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/rw.svg",
+    "name": "Rwanda",
+    "alpha3Code": "RWA",
+    "callingCodes": [
+      "250"
+    ],
+    "capital": "Kigali",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/bl.svg",
+    "name": "Saint Barthélemy",
+    "alpha3Code": "BLM",
+    "callingCodes": [
+      "590"
+    ],
+    "capital": "Gustavia",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sh.svg",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "alpha3Code": "SHN",
+    "callingCodes": [
+      "290"
+    ],
+    "capital": "Jamestown",
+    "region": "Africa",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/kn.svg",
+    "name": "Saint Kitts and Nevis",
+    "alpha3Code": "KNA",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Basseterre",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/lc.svg",
+    "name": "Saint Lucia",
+    "alpha3Code": "LCA",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Castries",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/mf.svg",
+    "name": "Saint Martin (French part)",
+    "alpha3Code": "MAF",
+    "callingCodes": [
+      "590"
+    ],
+    "capital": "Marigot",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/pm.svg",
+    "name": "Saint Pierre and Miquelon",
+    "alpha3Code": "SPM",
+    "callingCodes": [
+      "508"
+    ],
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "timezones": [
+      "UTC-03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/vc.svg",
+    "name": "Saint Vincent and the Grenadines",
+    "alpha3Code": "VCT",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Kingstown",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ws.svg",
+    "name": "Samoa",
+    "alpha3Code": "WSM",
+    "callingCodes": [
+      "685"
+    ],
+    "capital": "Apia",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+13:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sm.svg",
+    "name": "San Marino",
+    "alpha3Code": "SMR",
+    "callingCodes": [
+      "378"
+    ],
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/st.svg",
+    "name": "Sao Tome and Principe",
+    "alpha3Code": "STP",
+    "callingCodes": [
+      "239"
+    ],
+    "capital": "São Tomé",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sa.svg",
+    "name": "Saudi Arabia",
+    "alpha3Code": "SAU",
+    "callingCodes": [
+      "966"
+    ],
+    "capital": "Riyadh",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sn.svg",
+    "name": "Senegal",
+    "alpha3Code": "SEN",
+    "callingCodes": [
+      "221"
+    ],
+    "capital": "Dakar",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/rs.svg",
+    "name": "Serbia",
+    "alpha3Code": "SRB",
+    "callingCodes": [
+      "381"
+    ],
+    "capital": "Belgrade",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sc.svg",
+    "name": "Seychelles",
+    "alpha3Code": "SYC",
+    "callingCodes": [
+      "248"
+    ],
+    "capital": "Victoria",
+    "region": "Africa",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sl.svg",
+    "name": "Sierra Leone",
+    "alpha3Code": "SLE",
+    "callingCodes": [
+      "232"
+    ],
+    "capital": "Freetown",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sg.svg",
+    "name": "Singapore",
+    "alpha3Code": "SGP",
+    "callingCodes": [
+      "65"
+    ],
+    "capital": "Singapore",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sx.svg",
+    "name": "Sint Maarten (Dutch part)",
+    "alpha3Code": "SXM",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sk.svg",
+    "name": "Slovakia",
+    "alpha3Code": "SVK",
+    "callingCodes": [
+      "421"
+    ],
+    "capital": "Bratislava",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/si.svg",
+    "name": "Slovenia",
+    "alpha3Code": "SVN",
+    "callingCodes": [
+      "386"
+    ],
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sb.svg",
+    "name": "Solomon Islands",
+    "alpha3Code": "SLB",
+    "callingCodes": [
+      "677"
+    ],
+    "capital": "Honiara",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+11:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/so.svg",
+    "name": "Somalia",
+    "alpha3Code": "SOM",
+    "callingCodes": [
+      "252"
+    ],
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/za.svg",
+    "name": "South Africa",
+    "alpha3Code": "ZAF",
+    "callingCodes": [
+      "27"
+    ],
+    "capital": "Pretoria",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gs.svg",
+    "name": "South Georgia and the South Sandwich Islands",
+    "alpha3Code": "SGS",
+    "callingCodes": [
+      "500"
+    ],
+    "capital": "King Edward Point",
+    "region": "Americas",
+    "timezones": [
+      "UTC-02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/kr.svg",
+    "name": "Korea (Republic of)",
+    "alpha3Code": "KOR",
+    "callingCodes": [
+      "82"
+    ],
+    "capital": "Seoul",
+    "region": "Asia",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/es.svg",
+    "name": "Spain",
+    "alpha3Code": "ESP",
+    "callingCodes": [
+      "34"
+    ],
+    "capital": "Madrid",
+    "region": "Europe",
+    "timezones": [
+      "UTC",
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/lk.svg",
+    "name": "Sri Lanka",
+    "alpha3Code": "LKA",
+    "callingCodes": [
+      "94"
+    ],
+    "capital": "Sri Jayawardenepura Kotte",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:30"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sd.svg",
+    "name": "Sudan",
+    "alpha3Code": "SDN",
+    "callingCodes": [
+      "249"
+    ],
+    "capital": "Khartoum",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ss.svg",
+    "name": "South Sudan",
+    "alpha3Code": "SSD",
+    "callingCodes": [
+      "211"
+    ],
+    "capital": "Juba",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sr.svg",
+    "name": "Suriname",
+    "alpha3Code": "SUR",
+    "callingCodes": [
+      "597"
+    ],
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "timezones": [
+      "UTC-03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sj.svg",
+    "name": "Svalbard and Jan Mayen",
+    "alpha3Code": "SJM",
+    "callingCodes": [
+      "47"
+    ],
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sz.svg",
+    "name": "Swaziland",
+    "alpha3Code": "SWZ",
+    "callingCodes": [
+      "268"
+    ],
+    "capital": "Mbabane",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/se.svg",
+    "name": "Sweden",
+    "alpha3Code": "SWE",
+    "callingCodes": [
+      "46"
+    ],
+    "capital": "Stockholm",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ch.svg",
+    "name": "Switzerland",
+    "alpha3Code": "CHE",
+    "callingCodes": [
+      "41"
+    ],
+    "capital": "Bern",
+    "region": "Europe",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/sy.svg",
+    "name": "Syrian Arab Republic",
+    "alpha3Code": "SYR",
+    "callingCodes": [
+      "963"
+    ],
+    "capital": "Damascus",
+    "region": "Asia",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tw.svg",
+    "name": "Taiwan",
+    "alpha3Code": "TWN",
+    "callingCodes": [
+      "886"
+    ],
+    "capital": "Taipei",
+    "region": "Asia",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tj.svg",
+    "name": "Tajikistan",
+    "alpha3Code": "TJK",
+    "callingCodes": [
+      "992"
+    ],
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tz.svg",
+    "name": "Tanzania, United Republic of",
+    "alpha3Code": "TZA",
+    "callingCodes": [
+      "255"
+    ],
+    "capital": "Dodoma",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/th.svg",
+    "name": "Thailand",
+    "alpha3Code": "THA",
+    "callingCodes": [
+      "66"
+    ],
+    "capital": "Bangkok",
+    "region": "Asia",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tl.svg",
+    "name": "Timor-Leste",
+    "alpha3Code": "TLS",
+    "callingCodes": [
+      "670"
+    ],
+    "capital": "Dili",
+    "region": "Asia",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tg.svg",
+    "name": "Togo",
+    "alpha3Code": "TGO",
+    "callingCodes": [
+      "228"
+    ],
+    "capital": "Lomé",
+    "region": "Africa",
+    "timezones": [
+      "UTC"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tk.svg",
+    "name": "Tokelau",
+    "alpha3Code": "TKL",
+    "callingCodes": [
+      "690"
+    ],
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+13:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/to.svg",
+    "name": "Tonga",
+    "alpha3Code": "TON",
+    "callingCodes": [
+      "676"
+    ],
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+13:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tt.svg",
+    "name": "Trinidad and Tobago",
+    "alpha3Code": "TTO",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tn.svg",
+    "name": "Tunisia",
+    "alpha3Code": "TUN",
+    "callingCodes": [
+      "216"
+    ],
+    "capital": "Tunis",
+    "region": "Africa",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tr.svg",
+    "name": "Turkey",
+    "alpha3Code": "TUR",
+    "callingCodes": [
+      "90"
+    ],
+    "capital": "Ankara",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tm.svg",
+    "name": "Turkmenistan",
+    "alpha3Code": "TKM",
+    "callingCodes": [
+      "993"
+    ],
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tc.svg",
+    "name": "Turks and Caicos Islands",
+    "alpha3Code": "TCA",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/tv.svg",
+    "name": "Tuvalu",
+    "alpha3Code": "TUV",
+    "callingCodes": [
+      "688"
+    ],
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ug.svg",
+    "name": "Uganda",
+    "alpha3Code": "UGA",
+    "callingCodes": [
+      "256"
+    ],
+    "capital": "Kampala",
+    "region": "Africa",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ua.svg",
+    "name": "Ukraine",
+    "alpha3Code": "UKR",
+    "callingCodes": [
+      "380"
+    ],
+    "capital": "Kyiv",
+    "region": "Europe",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ae.svg",
+    "name": "United Arab Emirates",
+    "alpha3Code": "ARE",
+    "callingCodes": [
+      "971"
+    ],
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "timezones": [
+      "UTC+04"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/gb.svg",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "alpha3Code": "GBR",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "London",
+    "region": "Europe",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/us.svg",
+    "name": "United States of America",
+    "alpha3Code": "USA",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/uy.svg",
+    "name": "Uruguay",
+    "alpha3Code": "URY",
+    "callingCodes": [
+      "598"
+    ],
+    "capital": "Montevideo",
+    "region": "Americas",
+    "timezones": [
+      "UTC-03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/uz.svg",
+    "name": "Uzbekistan",
+    "alpha3Code": "UZB",
+    "callingCodes": [
+      "998"
+    ],
+    "capital": "Tashkent",
+    "region": "Asia",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/vu.svg",
+    "name": "Vanuatu",
+    "alpha3Code": "VUT",
+    "callingCodes": [
+      "678"
+    ],
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+11:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ve.svg",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "alpha3Code": "VEN",
+    "callingCodes": [
+      "58"
+    ],
+    "capital": "Caracas",
+    "region": "Americas",
+    "timezones": [
+      "UTC-04:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/vn.svg",
+    "name": "Vietnam",
+    "alpha3Code": "VNM",
+    "callingCodes": [
+      "84"
+    ],
+    "capital": "Hanoi",
+    "region": "Asia",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/wf.svg",
+    "name": "Wallis and Futuna",
+    "alpha3Code": "WLF",
+    "callingCodes": [
+      "681"
+    ],
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/eh.svg",
+    "name": "Western Sahara",
+    "alpha3Code": "ESH",
+    "callingCodes": [
+      "212"
+    ],
+    "capital": "El Aaiún",
+    "region": "Africa",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/ye.svg",
+    "name": "Yemen",
+    "alpha3Code": "YEM",
+    "callingCodes": [
+      "967"
+    ],
+    "capital": "Sana'a",
+    "region": "Asia",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/zm.svg",
+    "name": "Zambia",
+    "alpha3Code": "ZMB",
+    "callingCodes": [
+      "260"
+    ],
+    "capital": "Lusaka",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "flag": "https://flagcdn.com/zw.svg",
+    "name": "Zimbabwe",
+    "alpha3Code": "ZWE",
+    "callingCodes": [
+      "263"
+    ],
+    "capital": "Harare",
+    "region": "Africa",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  }
+]

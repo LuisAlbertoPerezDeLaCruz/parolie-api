@@ -21,6 +21,7 @@ export class ReservationsService {
   ) {}
 
   create(createReservationDto: CreateReservationDto) {
+    createReservationDto['rated'] = false;
     const newReservation = new this.reservationModel(createReservationDto);
     this.changeGateway.sendChangeNotification({
       collection: 'reservation',
