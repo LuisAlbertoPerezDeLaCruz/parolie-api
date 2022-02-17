@@ -5,6 +5,7 @@ import { MongooseModule } from '@nestjs/mongoose';
 import { Reservation, ReservationSchema } from './schemas/reservations.schema';
 import { PassportModule } from '@nestjs/passport';
 import { ChangeGateway } from '../changes/changes.gateway';
+import { TranslatorProfileModule } from '../translator-profile/translator-profile.module';
 
 @Module({
   imports: [
@@ -19,6 +20,7 @@ import { ChangeGateway } from '../changes/changes.gateway';
       },
     ]),
     PassportModule.register({ defaultStrategy: 'jwt', session: false }),
+    TranslatorProfileModule,
   ],
   controllers: [ReservationsController],
   providers: [ReservationsService, ChangeGateway],

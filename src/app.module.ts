@@ -15,6 +15,7 @@ import { SmsModule } from './sms/sms.module';
 import { NotesModule } from './notes/notes.module';
 import { ChatModule } from './chat/chat.module';
 import { CountriesModule } from './countries/countries.module';
+import { ScheduleModule } from '@nestjs/schedule';
 
 @Module({
   imports: [
@@ -40,6 +41,7 @@ import { CountriesModule } from './countries/countries.module';
     NotesModule,
     ChatModule,
     CountriesModule,
+    ScheduleModule.forRoot(),
   ],
   controllers: [AppController],
   providers: [AppService],

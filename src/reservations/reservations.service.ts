@@ -12,12 +12,15 @@ import {
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
 
+import { TranslatorProfileService } from '../translator-profile/translator-profile.service';
+
 @Injectable()
 export class ReservationsService {
   constructor(
     @InjectModel(Reservation.name)
     private reservationModel: Model<ReservationDocument>,
     private changeGateway: ChangeGateway,
+    private translatorProfileService: TranslatorProfileService,
   ) {}
 
   create(createReservationDto: CreateReservationDto) {
@@ -70,7 +73,47 @@ export class ReservationsService {
       rated: true,
       'rating.accounted': false,
     });
-    return result;
+    var total_accounted = 0;
+    result.forEach(async (element: any) => {
+      total_accounted++;
+      const profile_rating = {
+        rate: element.rating.rate,
+        comments: element.rating?.comments,
+        createdAt: element.rating.createdAt,
+        createdBy: element.creator,
+        fromReservation: element._id,
+      };
+      const profiles: any = await this.translatorProfileService.findByQuery({
+        creator: element.translator._id,
+      });
+      const profile = profiles[0];
+      let ratings = profile?.ratings;
+      if (!ratings) {
+        ratings = [];
+      }
+      ratings.push(profile_rating);
+      let average_rate = 0;
+      ratings.forEach((element) => {
+        average_rate = average_rate + element.rate;
+      });
+      average_rate = average_rate / ratings.length;
+      await this.translatorProfileService.update(profile._id, {
+        ratings: ratings,
+        average_rate: average_rate,
+      });
+      let rating = element.rating;
+      rating.accounted = true;
+      await this.update(element._id, { rating: rating });
+    });
+
+    /**
+     * Hay que incluir en loa ratings del translator-profile
+     * los ratings que se encuentran en cada reservacion
+     * y actualizar la reservacion con el valur en true
+     * para rating.accounted
+     */
+
+    return { total_accounted: total_accounted };
   }
 
   async updateStatuses(query: any) {

@@ -83,6 +83,9 @@ export class TranslatorProfile {
   photo: string;
 
   @Prop()
+  average_rate: number;
+
+  @Prop()
   ratings: Rating[];
 }
 

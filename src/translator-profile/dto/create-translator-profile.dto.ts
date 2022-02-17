@@ -20,5 +20,6 @@ export class CreateTranslatorProfileDto {
   types_of_services: string[];
   description: string;
   photo: string;
+  average_rate: number;
   ratings: Rating[];
 }

@@ -14,9 +14,12 @@ import { ReservationsService } from './reservations.service';
 import { CreateReservationDto } from './dto/create-reservation.dto';
 import { UpdateReservationDto } from './dto/update-reservation.dto';
 import { AuthGuard } from '@nestjs/passport';
+import { Cron } from '@nestjs/schedule';
+import { Logger } from '@nestjs/common';
 
 @Controller('reservations')
 export class ReservationsController {
+  private readonly logger = new Logger(ReservationsController.name);
   constructor(private readonly reservationsService: ReservationsService) {}
 
   @UseGuards(AuthGuard())
@@ -32,9 +35,13 @@ export class ReservationsController {
     return this.reservationsService.findAll();
   }
 
+  // @Cron('45 * * * * *')
   @Get('account-ratings')
   async accountRatings(@Query() query) {
     const result = await this.reservationsService.accountRatings(query);
+    this.logger.debug(
+      `accountRatings run and accounted ${result.total_accounted} reservations.`,
+    );
     return result;
   }
 

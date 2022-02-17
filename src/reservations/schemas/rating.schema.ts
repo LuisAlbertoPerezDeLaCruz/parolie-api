@@ -10,4 +10,7 @@ export class Rating {
 
   @Prop()
   accounted: boolean;
+
+  @Prop()
+  createdAt: Date;
 }
